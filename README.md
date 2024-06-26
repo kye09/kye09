@@ -3,7 +3,7 @@
 [<img align="left" alt="TensorFlow Developer Certificate" width="48px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102399843" />][TF]
 [<img align="left" alt="LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
-[TF]: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102399843
+[TF]: [https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102399843](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/102399843)
 [linkedin]: https://www.linkedin.com/in/yeeun-kim-7a298b290/
 
 <!--
