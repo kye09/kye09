@@ -1,4 +1,4 @@
-## Yeeun Kim
+## Ye Eun Kim
 
 [<img align="left" alt="TensorFlow Developer Certificate" width="48px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102399843" />][TF]
 [<img align="left" alt="LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
