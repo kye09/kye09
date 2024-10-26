@@ -1,8 +1,9 @@
 ## Yeeun Kim
+<img src="https://github.com/user-attachments/assets/891ea21d-c623-4648-955e-86dd0f3a580d" alt="pokemon-snorlax" width="100" align='right'/>
 
-[<img align="left" alt="TensorFlow Developer Certificate" width="60px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102399843" />][TF]
-[<img align="left" alt="LinkedIn" width="60px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-<img src="https://github.com/user-attachments/assets/891ea21d-c623-4648-955e-86dd0f3a580d" alt="pokemon-snorlax" width="70" align='right'/>
+### AI & Data enginering
+[<img align="left" alt="TensorFlow Developer Certificate" width="50px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102399843" />][TF]
+[<img align="left" alt="LinkedIn" width="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 
 [TF]: https://www.credential.net/cf188117-b280-469b-8729-e0fbe4ef75cc
