@@ -1,5 +1,5 @@
 ## Yeeun Kim
-<img src="https://github.com/user-attachments/assets/891ea21d-c623-4648-955e-86dd0f3a580d" alt="pokemon-snorlax" width="110" align='right'/>
+<img src="https://github.com/user-attachments/assets/891ea21d-c623-4648-955e-86dd0f3a580d" alt="pokemon-snorlax" width="100" align='right'/>
 
 ### AI & Data engineering
 [<img align="left" alt="TensorFlow Developer Certificate" width="50px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102399843" />][TF]
