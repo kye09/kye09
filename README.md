@@ -5,7 +5,7 @@
 [<img align="left" alt="TensorFlow Developer Certificate" width="50px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102399843" />][TF]
 [<img align="left" alt="LinkedIn" width="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
-<p align="right"> '잠만보, 파괴광선!' &nbsp;&nbsp;</p>
+ <p align="right">&nbsp;&nbsp;</p>
 
 
 [TF]: https://www.credential.net/cf188117-b280-469b-8729-e0fbe4ef75cc
